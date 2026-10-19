@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "title": "Street Deck 8.0",
+    "brand": "Ollie Foundry",
+    "category": "skateboards",
+    "type": "deck",
+    "price": 59.99,
+    "stock": 12,
+    "image": "./images/products/skateboard-1.jpg",
+    "description": "7-ply maple street deck with a medium concave. Pop that holds up to daily abuse."
+  },
+  {
+    "id": 2,
+    "title": "Street Deck 8.25",
+    "brand": "Rustbucket Skate Co.",
+    "category": "skateboards",
+    "type": "deck",
+    "price": 62.99,
+    "stock": 9,
+    "image": "./images/products/skateboard-2.jpg",
+    "description": "7-ply maple deck with a slightly wider platform for stability on stairs and rails."
+  },
+  {
+    "id": 3,
+    "title": "Street Deck 8.5",
+    "brand": "Midnight Pavement",
+    "category": "skateboards",
+    "type": "deck",
+    "price": 64.99,
+    "stock": 6,
+    "image": "./images/products/skateboard-3.jpg",
+    "description": "Wide maple deck with a deep concave and steady landings. Good for bowls and parks."
+  },
+  {
+    "id": 4,
+    "title": "Mini Deck 7.5",
+    "brand": "Ollie Foundry",
+    "category": "skateboards",
+    "type": "deck",
+    "price": 49.99,
+    "stock": 0,
+    "image": "./images/products/skateboard-4.jpg",
+    "description": "Compact deck for younger riders and tight technical street skating."
+  },
+  {
+    "id": 5,
+    "title": "Street Complete 8.0",
+    "brand": "Gutterline",
+    "category": "skateboards",
+    "type": "complete",
+    "price": 109.99,
+    "stock": 7,
+    "image": "./images/products/skateboard-5.jpg",
+    "description": "Fully assembled 8.0 complete with mid trucks, 52mm wheels and pre-greased bearings."
+  },
+  {
+    "id": 6,
+    "title": "Pro Complete 8.25",
+    "brand": "Rustbucket Skate Co.",
+    "category": "skateboards",
+    "type": "complete",
+    "price": 129.99,
+    "stock": 3,
+    "image": "./images/products/skateboard-6.jpg",
+    "description": "Pro-level setup with a 8.25 deck, hollow trucks and fast bearings. Ready to ride."
+  },
+  {
+    "id": 7,
+    "title": "Beginner Complete 7.75",
+    "brand": "Bolt & Board",
+    "category": "skateboards",
+    "type": "complete",
+    "price": 89.99,
+    "stock": 10,
+    "image": "./images/products/skateboard-7.jpg",
+    "description": "Easy-to-ride complete with a forgiving 7.75 deck and soft wheels. A good first board."
+  },
+  {
+    "id": 8,
+    "title": "Park Complete 8.5",
+    "brand": "Midnight Pavement",
+    "category": "skateboards",
+    "type": "complete",
+    "price": 124.99,
+    "stock": 4,
+    "image": "./images/products/skateboard-8.jpg",
+    "description": "Wide complete built for ramps and bowls, with a stable deck and smooth-rolling wheels."
+  },
+  {
+    "id": 9,
+    "title": "Retro Cruiser 29",
+    "brand": "Gutterline",
+    "category": "skateboards",
+    "type": "cruiser",
+    "price": 99.99,
+    "stock": 8,
+    "image": "./images/products/skateboard-9.jpg",
+    "description": "Classic shaped cruiser with a kicktail and soft wheels for rolling around town."
+  },
+  {
+    "id": 10,
+    "title": "Wave Rider Cruiser 28",
+    "brand": "Midnight Pavement",
+    "category": "skateboards",
+    "type": "cruiser",
+    "price": 109.99,
+    "stock": 2,
+    "image": "./images/products/skateboard-10.jpg",
+    "description": "Compact cruiser with a wave graphic, soft blue wheels and a kicked tail. Built for rough pavement."
+  },
+  {
+    "id": 11,
+    "title": "Chrome Script Deck 8.25",
+    "brand": "Ollie Foundry",
+    "category": "skateboards",
+    "type": "deck",
+    "price": 64.99,
+    "stock": 3,
+    "image": "./images/products/skateboard-11.jpg",
+    "description": "7-ply maple street deck with a glossy white top graphic and a medium concave."
+  },
+  {
+    "id": 12,
+    "title": "Hot Rod Complete 8.0",
+    "brand": "Rustbucket Skate Co.",
+    "category": "skateboards",
+    "type": "complete",
+    "price": 119.99,
+    "stock": 6,
+    "image": "./images/products/skateboard-12.jpg",
+    "description": "Fully assembled 8.0 complete with a black and orange hot rod graphic, mid trucks and white street wheels."
+  },
+  {
+    "id": 13,
+    "title": "Raw Alloy Trucks 5.25 (Pair)",
+    "brand": "Bolt & Board",
+    "category": "hardware",
+    "type": "trucks",
+    "price": 44.99,
+    "stock": 15,
+    "image": "./images/products/trucks-1.jpg",
+    "description": "Forged aluminum hangers with hollow axles. Light, strong and easy to turn."
+  },
+  {
+    "id": 14,
+    "title": "Black Street Trucks 5.0 (Pair)",
+    "brand": "Bolt & Board",
+    "category": "hardware",
+    "type": "trucks",
+    "price": 42.99,
+    "stock": 9,
+    "image": "./images/products/trucks-2.jpg",
+    "description": "Low trucks with a black finish for technical street skating and flip tricks."
+  },
+  {
+    "id": 15,
+    "title": "Silver Pro Trucks 5.5 (Pair)",
+    "brand": "Gutterline",
+    "category": "hardware",
+    "type": "trucks",
+    "price": 49.99,
+    "stock": 4,
+    "image": "./images/products/trucks-3.jpg",
+    "description": "Polished silver trucks with reinforced baseplates and durable kingpins."
+  },
+  {
+    "id": 16,
+    "title": "Hollow Kingpin Trucks 5.25 (Pair)",
+    "brand": "Gutterline",
+    "category": "hardware",
+    "type": "trucks",
+    "price": 54.99,
+    "stock": 7,
+    "image": "./images/products/trucks-4.jpg",
+    "description": "Hollow kingpin and axles cut weight without losing strength. Smooth grinds."
+  },
+  {
+    "id": 17,
+    "title": "Black Edition Trucks 5.0 (Pair)",
+    "brand": "Rustbucket Skate Co.",
+    "category": "hardware",
+    "type": "trucks",
+    "price": 47.99,
+    "stock": 2,
+    "image": "./images/products/trucks-5.jpg",
+    "description": "Matte black trucks with a laurel emblem. Limited run."
+  },
+  {
+    "id": 18,
+    "title": "Cruiser Wheels 70mm 78A (Set of 4)",
+    "brand": "Midnight Pavement",
+    "category": "hardware",
+    "type": "wheels",
+    "price": 54.99,
+    "stock": 12,
+    "image": "./images/products/wheels-1.jpg",
+    "description": "Wide cream wheels with purple cores. Soft urethane that rolls over cracks and rough ground."
+  },
+  {
+    "id": 19,
+    "title": "Classic White Wheels 53mm 99A (Set of 4)",
+    "brand": "Ollie Foundry",
+    "category": "hardware",
+    "type": "wheels",
+    "price": 32.99,
+    "stock": 20,
+    "image": "./images/products/wheels-2.jpg",
+    "description": "Hard white street wheels that hold their shape and slide well on concrete and ledges."
+  },
+  {
+    "id": 20,
+    "title": "Neon Green Wheels 54mm 95A (Set of 4)",
+    "brand": "Gutterline",
+    "category": "hardware",
+    "type": "wheels",
+    "price": 34.99,
+    "stock": 8,
+    "image": "./images/products/wheels-3.jpg",
+    "description": "Bright neon green wheels with a medium hardness. Good grip and easy to spot."
+  },
+  {
+    "id": 21,
+    "title": "Amber Cruiser Wheels 60mm 78A (Set of 4)",
+    "brand": "Midnight Pavement",
+    "category": "hardware",
+    "type": "wheels",
+    "price": 49.99,
+    "stock": 5,
+    "image": "./images/products/wheels-4.jpg",
+    "description": "Amber urethane wheels with a deep cup core for a smooth, quiet ride."
+  },
+  {
+    "id": 22,
+    "title": "Black Grip Tape Sheet",
+    "brand": "Rustbucket Skate Co.",
+    "category": "hardware",
+    "type": "griptape",
+    "price": 7.99,
+    "stock": 40,
+    "image": "./images/products/griptape-1.jpg",
+    "description": "Coarse black grip tape with air channels for bubble-free application."
+  },
+  {
+    "id": 23,
+    "title": "Clear Grip Tape Sheet",
+    "brand": "Bolt & Board",
+    "category": "hardware",
+    "type": "griptape",
+    "price": 8.99,
+    "stock": 25,
+    "image": "./images/products/griptape-2.jpg",
+    "description": "Clear grip tape that lets your deck graphic show through. Same bite as black."
+  },
+  {
+    "id": 24,
+    "title": "Perforated Grip Tape Sheet",
+    "brand": "Ollie Foundry",
+    "category": "hardware",
+    "type": "griptape",
+    "price": 9.99,
+    "stock": 18,
+    "image": "./images/products/griptape-3.jpg",
+    "description": "Pre-cut holes for fast, bubble-free application and clean edges."
+  },
+  {
+    "id": 25,
+    "title": "Neon Green Grip Tape Sheet",
+    "brand": "Gutterline",
+    "category": "hardware",
+    "type": "griptape",
+    "price": 8.99,
+    "stock": 6,
+    "image": "./images/products/griptape-4.jpg",
+    "description": "Bright green grip tape with a coarse grit for solid board control."
+  },
+  {
+    "id": 26,
+    "title": "Mounting Bolts 1\" (Set of 8)",
+    "brand": "Bolt & Board",
+    "category": "hardware",
+    "type": "hardware",
+    "price": 4.99,
+    "stock": 50,
+    "image": "./images/products/hardware-1.jpg",
+    "description": "Allen-head mounting bolts with lock nuts. Everything you need to attach two trucks."
+  },
+  {
+    "id": 27,
+    "title": "Precision Bearings (8-pack)",
+    "brand": "Bolt & Board",
+    "category": "hardware",
+    "type": "hardware",
+    "price": 19.99,
+    "stock": 30,
+    "image": "./images/products/hardware-2.jpg",
+    "description": "Pre-lubricated steel bearings with removable shields for easy cleaning."
+  },
+  {
+    "id": 28,
+    "title": "Old School Skate Shoes",
+    "brand": "Gutterline",
+    "category": "shoes",
+    "type": "shoes",
+    "price": 69.9,
+    "stock": 6,
+    "image": "./images/products/shoes-1.jpg",
+    "description": "Low-top canvas and suede shoes with a vulcanized sole for board feel and grip.",
+    "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 29,
+    "title": "High-Top Skate Shoes",
+    "brand": "Midnight Pavement",
+    "category": "shoes",
+    "type": "shoes",
+    "price": 84.99,
+    "stock": 4,
+    "image": "./images/products/shoes-2.jpg",
+    "description": "Padded high-tops with ankle support and reinforced ollie area.",
+    "sizes": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Cupsole Pro Shoes",
+    "brand": "Ollie Foundry",
+    "category": "shoes",
+    "type": "shoes",
+    "price": 94.99,
+    "stock": 2,
+    "image": "./images/products/shoes-3.jpg",
+    "description": "Cupsole construction with impact-absorbing insole for bigger drops and stairs.",
+    "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Slip-On Skate Shoes",
+    "brand": "Rustbucket Skate Co.",
+    "category": "shoes",
+    "type": "shoes",
+    "price": 54.99,
+    "stock": 9,
+    "image": "./images/products/shoes-4.jpg",
+    "description": "Easy slip-on with a durable canvas upper and grippy waffle sole.",
+    "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Low Vulcanized Shoes",
+    "brand": "Gutterline",
+    "category": "shoes",
+    "type": "shoes",
+    "price": 64.99,
+    "stock": 11,
+    "image": "./images/products/shoes-5.jpg",
+    "description": "Flat, flexible vulcanized sole for great board feel. Simple and durable.",
+    "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Suede Mid Skate Shoes",
+    "brand": "Midnight Pavement",
+    "category": "shoes",
+    "type": "shoes",
+    "price": 79.99,
+    "stock": 5,
+    "image": "./images/products/shoes-6.jpg",
+    "description": "Mid-top suede upper with double stitching in the high-wear areas.",
+    "sizes": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Beanie",
+    "brand": "Gutterline",
+    "category": "clothing",
+    "type": "beanie",
+    "price": 32.49,
+    "stock": 10,
+    "image": "./images/products/beanie-1.jpg",
+    "description": "Warm ribbed knit beanie with an embroidered logo patch.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Cuffed Beanie",
+    "brand": "Ollie Foundry",
+    "category": "clothing",
+    "type": "beanie",
+    "price": 24.99,
+    "stock": 15,
+    "image": "./images/products/beanie-2.jpg",
+    "description": "Classic cuffed knit beanie in a soft, stretchy acrylic blend.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Ribbed Watch Cap",
+    "brand": "Rustbucket Skate Co.",
+    "category": "clothing",
+    "type": "beanie",
+    "price": 22.99,
+    "stock": 12,
+    "image": "./images/products/beanie-3.jpg",
+    "description": "Short, snug watch cap that stays put while you skate.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Logo Patch Beanie",
+    "brand": "Midnight Pavement",
+    "category": "clothing",
+    "type": "beanie",
+    "price": 27.99,
+    "stock": 7,
+    "image": "./images/products/beanie-4.jpg",
+    "description": "Dense knit beanie with a woven label on the cuff.",
+    "sizes": [
+      "One size"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Logo Hoodie",
+    "brand": "Midnight Pavement",
+    "category": "clothing",
+    "type": "hoodie",
+    "price": 59.99,
+    "stock": 8,
+    "image": "./images/products/hoodie-1.jpg",
+    "description": "Heavyweight fleece hoodie with a front pouch pocket and screen-printed back graphic.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Zip Hoodie",
+    "brand": "Gutterline",
+    "category": "clothing",
+    "type": "hoodie",
+    "price": 64.99,
+    "stock": 6,
+    "image": "./images/products/hoodie-2.jpg",
+    "description": "Full-zip hoodie with a brushed fleece lining and two deep pockets.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Heavyweight Pullover Hoodie",
+    "brand": "Rustbucket Skate Co.",
+    "category": "clothing",
+    "type": "hoodie",
+    "price": 69.99,
+    "stock": 4,
+    "image": "./images/products/hoodie-3.jpg",
+    "description": "Thick, durable pullover with a double-lined hood that holds up to daily wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Washed Black Hoodie",
+    "brand": "Ollie Foundry",
+    "category": "clothing",
+    "type": "hoodie",
+    "price": 62.99,
+    "stock": 3,
+    "image": "./images/products/hoodie-4.jpg",
+    "description": "Garment-washed black hoodie with a soft, worn-in feel from the first wear.",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Oversized Hoodie",
+    "brand": "Midnight Pavement",
+    "category": "clothing",
+    "type": "hoodie",
+    "price": 74.99,
+    "stock": 5,
+    "image": "./images/products/hoodie-5.jpg",
+    "description": "Relaxed oversized fit with dropped shoulders and a roomy hood.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "California Graphic Long Sleeve",
+    "brand": "Rustbucket Skate Co.",
+    "category": "clothing",
+    "type": "tshirt",
+    "price": 39.99,
+    "stock": 8,
+    "image": "./images/products/tee-1.jpg",
+    "description": "Black long sleeve with a white front graphic and a relaxed fit.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Desert Pattern Tee",
+    "brand": "Midnight Pavement",
+    "category": "clothing",
+    "type": "tshirt",
+    "price": 29.99,
+    "stock": 11,
+    "image": "./images/products/tee-2.jpg",
+    "description": "All-over geometric pattern tee in blue, green and yellow with a soft vintage wash.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Oversized Washed Tee",
+    "brand": "Ollie Foundry",
+    "category": "clothing",
+    "type": "tshirt",
+    "price": 34.99,
+    "stock": 3,
+    "image": "./images/products/tee-3.jpg",
+    "description": "Heavyweight acid-washed black tee with a boxy oversized fit and large back print.",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Scooter Dog Tee",
+    "brand": "Gutterline",
+    "category": "clothing",
+    "type": "tshirt",
+    "price": 27.99,
+    "stock": 14,
+    "image": "./images/products/tee-4.jpg",
+    "description": "White cotton tee with a retro cartoon print on the chest.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Evolve Butterfly Tee",
+    "brand": "Midnight Pavement",
+    "category": "clothing",
+    "type": "tshirt",
+    "price": 28.99,
+    "stock": 9,
+    "image": "./images/products/tee-5.jpg",
+    "description": "Black tee with a blue butterfly graphic and bold red lettering.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Photo Collage Tee",
+    "brand": "Rustbucket Skate Co.",
+    "category": "clothing",
+    "type": "tshirt",
+    "price": 31.99,
+    "stock": 5,
+    "image": "./images/products/tee-6.jpg",
+    "description": "Oversized black tee with a yellow-framed collage print on the front.",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]
