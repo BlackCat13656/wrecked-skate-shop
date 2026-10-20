@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Street Deck 8.0",
-    "brand": "Ollie Foundry",
+    "brand": "Kickback Co.",
     "category": "skateboards",
     "type": "deck",
     "price": 59.99,
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "title": "Street Deck 8.25",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Grindhouse Supply",
     "category": "skateboards",
     "type": "deck",
     "price": 62.99,
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "title": "Street Deck 8.5",
-    "brand": "Midnight Pavement",
+    "brand": "Pavement Prophets",
     "category": "skateboards",
     "type": "deck",
     "price": 64.99,
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "title": "Mini Deck 7.5",
-    "brand": "Ollie Foundry",
+    "brand": "Bailout Brand",
     "category": "skateboards",
     "type": "deck",
     "price": 49.99,
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "title": "Street Complete 8.0",
-    "brand": "Gutterline",
+    "brand": "Tailwhip Collective",
     "category": "skateboards",
     "type": "complete",
     "price": 109.99,
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "title": "Pro Complete 8.25",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Stairset Society",
     "category": "skateboards",
     "type": "complete",
     "price": 129.99,
@@ -68,7 +68,7 @@
   {
     "id": 7,
     "title": "Beginner Complete 7.75",
-    "brand": "Bolt & Board",
+    "brand": "Crooked Alley",
     "category": "skateboards",
     "type": "complete",
     "price": 89.99,
@@ -79,7 +79,7 @@
   {
     "id": 8,
     "title": "Park Complete 8.5",
-    "brand": "Midnight Pavement",
+    "brand": "Fakie Foundry",
     "category": "skateboards",
     "type": "complete",
     "price": 124.99,
@@ -90,7 +90,7 @@
   {
     "id": 9,
     "title": "Retro Cruiser 29",
-    "brand": "Gutterline",
+    "brand": "Boardwalk Rejects",
     "category": "skateboards",
     "type": "cruiser",
     "price": 99.99,
@@ -101,7 +101,7 @@
   {
     "id": 10,
     "title": "Wave Rider Cruiser 28",
-    "brand": "Midnight Pavement",
+    "brand": "Lowtide Skate",
     "category": "skateboards",
     "type": "cruiser",
     "price": 109.99,
@@ -112,7 +112,7 @@
   {
     "id": 11,
     "title": "Chrome Script Deck 8.25",
-    "brand": "Ollie Foundry",
+    "brand": "Burnt Ollie",
     "category": "skateboards",
     "type": "deck",
     "price": 64.99,
@@ -123,7 +123,7 @@
   {
     "id": 12,
     "title": "Hot Rod Complete 8.0",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Noseblunt Works",
     "category": "skateboards",
     "type": "complete",
     "price": 119.99,
@@ -134,7 +134,7 @@
   {
     "id": 13,
     "title": "Raw Alloy Trucks 5.25 (Pair)",
-    "brand": "Bolt & Board",
+    "brand": "Kingpin Kitchen",
     "category": "hardware",
     "type": "trucks",
     "price": 44.99,
@@ -145,7 +145,7 @@
   {
     "id": 14,
     "title": "Black Street Trucks 5.0 (Pair)",
-    "brand": "Bolt & Board",
+    "brand": "Hardflip Hardware",
     "category": "hardware",
     "type": "trucks",
     "price": 42.99,
@@ -156,7 +156,7 @@
   {
     "id": 15,
     "title": "Silver Pro Trucks 5.5 (Pair)",
-    "brand": "Gutterline",
+    "brand": "Ditchline",
     "category": "hardware",
     "type": "trucks",
     "price": 49.99,
@@ -167,7 +167,7 @@
   {
     "id": 16,
     "title": "Hollow Kingpin Trucks 5.25 (Pair)",
-    "brand": "Gutterline",
+    "brand": "Rail Dogs",
     "category": "hardware",
     "type": "trucks",
     "price": 54.99,
@@ -178,7 +178,7 @@
   {
     "id": 17,
     "title": "Black Edition Trucks 5.0 (Pair)",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Switch Stance Supply",
     "category": "hardware",
     "type": "trucks",
     "price": 47.99,
@@ -189,7 +189,7 @@
   {
     "id": 18,
     "title": "Cruiser Wheels 70mm 78A (Set of 4)",
-    "brand": "Midnight Pavement",
+    "brand": "Bombhill Brand",
     "category": "hardware",
     "type": "wheels",
     "price": 54.99,
@@ -200,7 +200,7 @@
   {
     "id": 19,
     "title": "Classic White Wheels 53mm 99A (Set of 4)",
-    "brand": "Ollie Foundry",
+    "brand": "Thrift Wheel Co.",
     "category": "hardware",
     "type": "wheels",
     "price": 32.99,
@@ -211,7 +211,7 @@
   {
     "id": 20,
     "title": "Neon Green Wheels 54mm 95A (Set of 4)",
-    "brand": "Gutterline",
+    "brand": "Rusty Halfpipe",
     "category": "hardware",
     "type": "wheels",
     "price": 34.99,
@@ -222,7 +222,7 @@
   {
     "id": 21,
     "title": "Amber Cruiser Wheels 60mm 78A (Set of 4)",
-    "brand": "Midnight Pavement",
+    "brand": "Sidewalk Static",
     "category": "hardware",
     "type": "wheels",
     "price": 49.99,
@@ -233,7 +233,7 @@
   {
     "id": 22,
     "title": "Black Grip Tape Sheet",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Wax & Rails",
     "category": "hardware",
     "type": "griptape",
     "price": 7.99,
@@ -244,7 +244,7 @@
   {
     "id": 23,
     "title": "Clear Grip Tape Sheet",
-    "brand": "Bolt & Board",
+    "brand": "Gnarly Pigeon",
     "category": "hardware",
     "type": "griptape",
     "price": 8.99,
@@ -255,7 +255,7 @@
   {
     "id": 24,
     "title": "Perforated Grip Tape Sheet",
-    "brand": "Ollie Foundry",
+    "brand": "Manual Pad Co.",
     "category": "hardware",
     "type": "griptape",
     "price": 9.99,
@@ -266,7 +266,7 @@
   {
     "id": 25,
     "title": "Neon Green Grip Tape Sheet",
-    "brand": "Gutterline",
+    "brand": "Coping Crew",
     "category": "hardware",
     "type": "griptape",
     "price": 8.99,
@@ -277,7 +277,7 @@
   {
     "id": 26,
     "title": "Mounting Bolts 1\" (Set of 8)",
-    "brand": "Bolt & Board",
+    "brand": "Bushing Bros",
     "category": "hardware",
     "type": "hardware",
     "price": 4.99,
@@ -288,7 +288,7 @@
   {
     "id": 27,
     "title": "Precision Bearings (8-pack)",
-    "brand": "Bolt & Board",
+    "brand": "Quarterpipe Club",
     "category": "hardware",
     "type": "hardware",
     "price": 19.99,
@@ -299,7 +299,7 @@
   {
     "id": 28,
     "title": "Old School Skate Shoes",
-    "brand": "Gutterline",
+    "brand": "Skatepark Saints",
     "category": "shoes",
     "type": "shoes",
     "price": 69.9,
@@ -318,7 +318,7 @@
   {
     "id": 29,
     "title": "High-Top Skate Shoes",
-    "brand": "Midnight Pavement",
+    "brand": "Late Night Lines",
     "category": "shoes",
     "type": "shoes",
     "price": 84.99,
@@ -336,7 +336,7 @@
   {
     "id": 30,
     "title": "Cupsole Pro Shoes",
-    "brand": "Ollie Foundry",
+    "brand": "Slappy Hour",
     "category": "shoes",
     "type": "shoes",
     "price": 94.99,
@@ -354,7 +354,7 @@
   {
     "id": 31,
     "title": "Slip-On Skate Shoes",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Pushmob",
     "category": "shoes",
     "type": "shoes",
     "price": 54.99,
@@ -373,7 +373,7 @@
   {
     "id": 32,
     "title": "Low Vulcanized Shoes",
-    "brand": "Gutterline",
+    "brand": "Concrete Sundays",
     "category": "shoes",
     "type": "shoes",
     "price": 64.99,
@@ -392,7 +392,7 @@
   {
     "id": 33,
     "title": "Suede Mid Skate Shoes",
-    "brand": "Midnight Pavement",
+    "brand": "Hellflip Goods",
     "category": "shoes",
     "type": "shoes",
     "price": 79.99,
@@ -410,7 +410,7 @@
   {
     "id": 34,
     "title": "Beanie",
-    "brand": "Gutterline",
+    "brand": "Dusk Patrol",
     "category": "clothing",
     "type": "beanie",
     "price": 32.49,
@@ -424,7 +424,7 @@
   {
     "id": 35,
     "title": "Cuffed Beanie",
-    "brand": "Ollie Foundry",
+    "brand": "Cold Pavement",
     "category": "clothing",
     "type": "beanie",
     "price": 24.99,
@@ -438,7 +438,7 @@
   {
     "id": 36,
     "title": "Ribbed Watch Cap",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Dusk Patrol",
     "category": "clothing",
     "type": "beanie",
     "price": 22.99,
@@ -452,7 +452,7 @@
   {
     "id": 37,
     "title": "Logo Patch Beanie",
-    "brand": "Midnight Pavement",
+    "brand": "Mellow Grind",
     "category": "clothing",
     "type": "beanie",
     "price": 27.99,
@@ -466,7 +466,7 @@
   {
     "id": 38,
     "title": "Logo Hoodie",
-    "brand": "Midnight Pavement",
+    "brand": "Cold Pavement",
     "category": "clothing",
     "type": "hoodie",
     "price": 59.99,
@@ -483,7 +483,7 @@
   {
     "id": 39,
     "title": "Zip Hoodie",
-    "brand": "Gutterline",
+    "brand": "Mellow Grind",
     "category": "clothing",
     "type": "hoodie",
     "price": 64.99,
@@ -500,7 +500,7 @@
   {
     "id": 40,
     "title": "Heavyweight Pullover Hoodie",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Dusk Patrol",
     "category": "clothing",
     "type": "hoodie",
     "price": 69.99,
@@ -517,7 +517,7 @@
   {
     "id": 41,
     "title": "Washed Black Hoodie",
-    "brand": "Ollie Foundry",
+    "brand": "Low Hours Apparel",
     "category": "clothing",
     "type": "hoodie",
     "price": 62.99,
@@ -533,7 +533,7 @@
   {
     "id": 42,
     "title": "Oversized Hoodie",
-    "brand": "Midnight Pavement",
+    "brand": "Cold Pavement",
     "category": "clothing",
     "type": "hoodie",
     "price": 74.99,
@@ -550,7 +550,7 @@
   {
     "id": 43,
     "title": "California Graphic Long Sleeve",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Low Hours Apparel",
     "category": "clothing",
     "type": "tshirt",
     "price": 39.99,
@@ -567,7 +567,7 @@
   {
     "id": 44,
     "title": "Desert Pattern Tee",
-    "brand": "Midnight Pavement",
+    "brand": "Sunday Session",
     "category": "clothing",
     "type": "tshirt",
     "price": 29.99,
@@ -584,7 +584,7 @@
   {
     "id": 45,
     "title": "Oversized Washed Tee",
-    "brand": "Ollie Foundry",
+    "brand": "Dusk Patrol",
     "category": "clothing",
     "type": "tshirt",
     "price": 34.99,
@@ -600,7 +600,7 @@
   {
     "id": 46,
     "title": "Scooter Dog Tee",
-    "brand": "Gutterline",
+    "brand": "Sunday Session",
     "category": "clothing",
     "type": "tshirt",
     "price": 27.99,
@@ -617,7 +617,7 @@
   {
     "id": 47,
     "title": "Evolve Butterfly Tee",
-    "brand": "Midnight Pavement",
+    "brand": "Mellow Grind",
     "category": "clothing",
     "type": "tshirt",
     "price": 28.99,
@@ -634,7 +634,7 @@
   {
     "id": 48,
     "title": "Photo Collage Tee",
-    "brand": "Rustbucket Skate Co.",
+    "brand": "Low Hours Apparel",
     "category": "clothing",
     "type": "tshirt",
     "price": 31.99,
