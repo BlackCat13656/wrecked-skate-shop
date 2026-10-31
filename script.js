@@ -23,6 +23,7 @@ class Products {
         const { title, brand, price, id, image, stock, category } = item;
         return { title, brand, price, id, image, stock, category };
       });
+
       return products;
     } catch (error) {
       console.log(error);
@@ -60,12 +61,20 @@ class UI {
 }
 
 // local storage
-class Storage {}
+class Storage {
+  static saveProducts(products) {
+    localStorage.setItem("products", JSON.stringify(products));
+  }
+}
 
 document.addEventListener("DOMContentLoaded", () => {
   const ui = new UI();
   const products = new Products();
 
   // get all products
-  products.getProducts().then((products) => ui.displayProducts(products));
+  products.getProducts().then((products) => {
+    ui.displayProducts(products);
+
+    Storage.saveProducts(products);
+  });
 });
