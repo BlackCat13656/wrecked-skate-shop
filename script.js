@@ -1,5 +1,5 @@
 const cartBtn = document.querySelector(".cart-btn");
-const closedCartBtn = document.querySelector(".close-cart");
+const closeCartBtn = document.querySelector(".close-cart");
 const clearCartBtn = document.querySelector(".clear-cart");
 const cartDOM = document.querySelector(".cart");
 const cartOverlay = document.querySelector(".cart-overlay");
@@ -81,7 +81,6 @@ class UI {
 
         // get product from products
         let cartItem = { ...Storage.getProduct(id), amount: 1 };
-        console.log(cartItem);
 
         //add product to the cart
         cart = [...cart, cartItem];
@@ -94,7 +93,9 @@ class UI {
 
         // display cart item
         this.addCartItem(cartItem);
+
         // show the cart
+        this.showCart();
       });
     });
   }
@@ -127,7 +128,36 @@ class UI {
               </div>`;
 
     cartContent.appendChild(div);
-    console.log(cartContent);
+  }
+
+  showCart() {
+    cartOverlay.classList.add("transparentBcg");
+    cartDOM.classList.add("showCart");
+  }
+
+  setupAPP() {
+    cart = Storage.getCart();
+    this.setCartValues(cart);
+    this.populateCart(cart);
+    cartBtn.addEventListener("click", this.showCart);
+    closeCartBtn.addEventListener("click", this.hideCart);
+  }
+
+  populateCart(cart) {
+    cart.forEach((item) => this.addCartItem(item));
+  }
+
+  hideCart() {
+    cartOverlay.classList.remove("transparentBcg");
+    cartDOM.classList.remove("showCart");
+  }
+
+  cartLogic() {
+    clearCartBtn.addEventListener("click", this.clearCart);
+  }
+
+  clearCart() {
+    console.log(this);
   }
 }
 
@@ -145,11 +175,20 @@ class Storage {
   static saveCart(cart) {
     localStorage.setItem("cart", JSON.stringify(cart));
   }
+
+  static getCart() {
+    return localStorage.getItem("cart")
+      ? JSON.parse(localStorage.getItem("cart"))
+      : [];
+  }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
   const ui = new UI();
   const products = new Products();
+
+  // steup application
+  ui.setupAPP();
 
   // get all products
   products
@@ -161,5 +200,6 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .then(() => {
       ui.getBagButtons();
+      ui.cartLogic();
     });
 });
