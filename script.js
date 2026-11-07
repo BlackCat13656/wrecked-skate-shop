@@ -153,11 +153,25 @@ class UI {
   }
 
   cartLogic() {
-    clearCartBtn.addEventListener("click", this.clearCart);
+    // cler cart button
+    clearCartBtn.addEventListener("click", () => this.clearCart());
   }
 
+  // cart functionality
   clearCart() {
-    console.log(this);
+    let cartItems = cart.map((item) => item.id);
+    cartItems.forEach((id) => this.removeItem(id));
+  }
+
+  removeItem(id) {
+    cart = cart.filter((item) => item.id !== id);
+    this.setCartValues(cart);
+    Storage.saveCart(cart);
+    let button = this.getSingleButton(id);
+  }
+
+  getSingleButton(id) {
+    return buttonsDOM.find((button) => button.dataset.id === id);
   }
 }
 
